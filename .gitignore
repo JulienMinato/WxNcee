@@ -1,18 +1,33 @@
-# http://www.gnu.org/software/automake
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
 
-Makefile.in
+# Precompiled Headers
+*.gch
+*.pch
 
-# http://www.gnu.org/software/autoconf
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
 
-/autom4te.cache
-/autoscan.log
-/autoscan-*.log
-/aclocal.m4
-/compile
-/config.h.in
-/configure
-/configure.scan
-/depcomp
-/install-sh
-/missing
-/stamp-h1
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
