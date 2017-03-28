@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "NceeAS(AnalysisServices)", "NceeAS(AnalysisServices)\NceeAS(AnalysisServices).dwproj", "{E8C42C59-3F77-4EC6-A7DA-89A2415E415B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8C42C59-3F77-4EC6-A7DA-89A2415E415B}.Development|Default.ActiveCfg = Development
+		{E8C42C59-3F77-4EC6-A7DA-89A2415E415B}.Development|Default.Build.0 = Development
+		{E8C42C59-3F77-4EC6-A7DA-89A2415E415B}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
