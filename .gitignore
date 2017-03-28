@@ -1,7 +1,7 @@
 # ÅäÖÃÎÄ¼ş
 *.vs
 *.ko
-*.obj
-*.elf
+*.json
+*.sqlite
 
 
