@@ -18,6 +18,7 @@ namespace WinNceeWPF.View
     /// Home.xaml 的交互逻辑
     /// </summary>
     //
+    //test123
     public partial class Home : Window
     {
         public Home()
